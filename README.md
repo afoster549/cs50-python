@@ -1,2 +1,2 @@
-# cs50-python
-My answers to the CS50 python problems.
+# CS50 Python
+These are my answers to the CS50 python problems exculding a final project.
